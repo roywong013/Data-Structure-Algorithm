@@ -12,3 +12,4 @@ Big O is the upper bound of algorithm time complexity <b>(worst case)</b>. Big O
 ## Data Structure
 
 * [Array](./data-structures/array.md)
+* [Linked List](./data-structures/linked-list.md)
