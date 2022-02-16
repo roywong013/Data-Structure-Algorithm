@@ -1,7 +1,9 @@
 # Array
 
-## Dynamic Array
+## Static Array
 
+## Dynamic Array
+>Dynamic Array means that we do not need to care about <b>sizing</b>. The languages (e.g. JavaScript, Python) will automatally arrange the size and memory. 
 ### Time Complexities
 | Access  | Search | Insertion | Deletion | Append |
 | ------- | -------| --------- | -------- |--------|
