@@ -1,6 +1,6 @@
 # Array
 
-##Dynamic Array
+## Dynamic Array
 
 ### Time Complexities
 | Access  | Search | Insertion | Deletion | Append |
