@@ -15,4 +15,6 @@
 
 | Access | Search | Insertion | Deletion | Append | Prepend |
 |--------|--------|-----------|----------|--------|---------|
-| O(n)   | O(n)*  | O(n)      | O(n)     | O(1)   | O(1)
+| O(n)   | O(n)*  | O(n)      | O(n)     | O(1)   | O(1)    |
+
+<i>實際上可以係O(n/2)</i>
