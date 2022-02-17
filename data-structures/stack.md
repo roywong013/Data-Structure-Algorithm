@@ -1,4 +1,4 @@
-# Stacks
+# Stack
 <b>Last In First Out</b>, like stacking boxs.
 
 | Pop | Push | Peek |
