@@ -15,3 +15,4 @@ Big O is the upper bound of algorithm time complexity <b>(worst case)</b>. Big O
 * [Hash Table](./data-structures/hash-table.md)
 * [Linked List](./data-structures/linked-list.md)
 * [Doubly Linked List](./data-structures/doubly-linked-list.md)
+* [Stacks](./data-structures/stacks.md)
