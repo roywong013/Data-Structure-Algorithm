@@ -1,5 +1,5 @@
 # Queue
 
-| Enqueue | Dequeue | Peek |
-|---------|---------|------|
-| O(1)    | O(1)    | O(1) |
+| Enqueue | Dequeue | Peek | Lookup |
+|---------|---------|------|--------|
+| O(1)    | O(1)    | O(1) | O(n)   |
