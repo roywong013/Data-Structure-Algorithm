@@ -16,7 +16,7 @@
 
 ### Time Complexity
 
-| Access | Search | Insertion | Deletion |
-|--------|--------|-----------|----------|
-| O(n)   | O(n)   | O(1)      | O(1)     |
+| Access | Search | Prepend | Append | Insertion | Deletion |
+|--------|--------|---------|--------|-----------|----------|
+| O(n)   | O(n)   | O(1)    | O(1)   | O(n)      | O(1)      |
  
