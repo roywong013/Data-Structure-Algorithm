@@ -1,5 +1,6 @@
 # Stack
-<b>Last In First Out</b>, like stacking boxs.
+<b>Last In First Out</b>, like stacking boxs. <br>
+Stack can be build either array or linked list. Both are fairly work in stack.
 
 | Pop | Push | Peek |
 |-----|------|------|
