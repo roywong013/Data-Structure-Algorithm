@@ -31,4 +31,4 @@ There are some rules of Binary Search Tree:
 |----------|-----------|-----------|
 |O(log N)* | O(log N)* | O(log N)* | 
 
-<i>*Log(n) if unbalanced</i>
+<i>*O(n) if unbalanced</i>
