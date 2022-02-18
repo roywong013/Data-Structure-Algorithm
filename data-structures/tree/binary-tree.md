@@ -18,3 +18,9 @@ There are two interesting property with Perfect Binary Tree:
 ## Full Binary Tree
 The nodes have either 0 or 2 children nodes, but never 1 child. <br>
 ![image](https://user-images.githubusercontent.com/74874696/154636005-d9244a8a-fa58-4b12-8eee-27c1626f5ccc.png)
+
+
+
+| Lookup | Insertion | Deletion |
+|--------|-----------|----------|
+|O(log N)| O(log N)  | O(log N) |
