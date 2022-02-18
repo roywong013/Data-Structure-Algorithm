@@ -21,7 +21,7 @@ The nodes have either 0 or 2 children nodes, but never 1 child. <br>
 
 
 # Binary Search Tree
-There are some rules of Binary Search Tree:
+Binary Search Tree is a sorted binary tree that can be searching data easily. There are some rules of Binary Search Tree:
 * All child nodes in right hand sides must be greater than current node
 * Nodes only can have up to 2 children
 <br><br><br>
