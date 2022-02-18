@@ -24,7 +24,7 @@ The nodes have either 0 or 2 children nodes, but never 1 child. <br>
 There are some rules of Binary Search Tree:
 * All child nodes in right hand sides must be greater than current node
 * Nodes only can have up to 2 children
-
+<br><br><br>
 
 
 | Lookup   | Insertion | Deletion  |
