@@ -20,7 +20,15 @@ The nodes have either 0 or 2 children nodes, but never 1 child. <br>
 ![image](https://user-images.githubusercontent.com/74874696/154636005-d9244a8a-fa58-4b12-8eee-27c1626f5ccc.png)
 
 
+# Binary Search Tree
+There are some rules of Binary Search Tree:
+* All child nodes in right hand sides must be greater than current node
+* Nodes only can have up to 2 children
 
-| Lookup | Insertion | Deletion |
-|--------|-----------|----------|
-|O(log N)| O(log N)  | O(log N) |
+
+
+| Lookup   | Insertion | Deletion  |
+|----------|-----------|-----------|
+|O(log N)* | O(log N)* | O(log N)* | 
+
+<i>*Log(n) if unbalanced</i>
