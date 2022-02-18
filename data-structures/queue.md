@@ -5,7 +5,8 @@ Queue can be build by either array or linked list. However, <b>linked list</b> w
 
 <b>Linked list order</b> Should be : 0 < 1 < 2 < 3 < 4 < 5  (頭<中<尾) <br>
 <b>Enqueue</b>: Push to the last node (tail) <br>
-<b>Dequeue</b>: Remove from the front (head)
+<b>Dequeue</b>: Remove from the front (head) <br>
+<b>Peek</b>: Lookup for the first data
 
 
 
