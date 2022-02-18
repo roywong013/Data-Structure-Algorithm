@@ -11,6 +11,6 @@ Peek: `this.array[this.array.length-1]`
 
 | Pop | Push | Peek | Lookup |
 |-----|------|------|--------|
-| O(1)| O(1) | O(1) | O(
+| O(1)| O(1) | O(1) | O(n)   |
 
 Peek: view the top most data
