@@ -6,6 +6,8 @@ While writing stack by linked list, we should push the top stack to `head` and i
 
 If we use Array for Stack, we can just build a `Stack` class and use built-in function `push` and `pop` to build the method. <br>
 Peek: `this.array[this.array.length-1]`
+<br><br><br>
+
 
 | Pop | Push | Peek |
 |-----|------|------|
