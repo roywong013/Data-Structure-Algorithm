@@ -6,7 +6,7 @@ In Linked List, we can create `this.left` and `this.right` for each node in orde
 
 There are some terms of binary tree,
 
-## Perfect Binary Tree
+### Perfect Binary Tree
 All the leafs are full, just like below image. <br>
 ![image](https://user-images.githubusercontent.com/74874696/154635733-91af0341-bde2-4fc5-802d-eb2a07e421b1.png) <br>
 There are two interesting property with Perfect Binary Tree:
@@ -15,7 +15,7 @@ There are two interesting property with Perfect Binary Tree:
 
 <br>
 
-## Full Binary Tree
+### Full Binary Tree
 The nodes have either 0 or 2 children nodes, but never 1 child. <br>
 ![image](https://user-images.githubusercontent.com/74874696/154636005-d9244a8a-fa58-4b12-8eee-27c1626f5ccc.png)
 
