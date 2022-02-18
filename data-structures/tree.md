@@ -8,8 +8,13 @@ In Linked List, we can create `this.left` and `this.right` for each node in orde
 There are some terms of binary tree,
 
 ### Perfect Binary Tree
-All the leafs are full, just like below image: <br>
-![image](https://user-images.githubusercontent.com/74874696/154635733-91af0341-bde2-4fc5-802d-eb2a07e421b1.png)
+All the leafs are full, just like below image. <br>
+![image](https://user-images.githubusercontent.com/74874696/154635733-91af0341-bde2-4fc5-802d-eb2a07e421b1.png) <br>
+There are two interesting property with Perfect Binary Tree:
+1. The Number of total nodes on each level doubles as we move down the tree.
+2. The number of total nodes in last level = Sum of total nodes in other levels + 1
+
+<br>
 
 ### Full Binary Tree
 The nodes have either 0 or 2 children nodes, but never 1 child. <br>
