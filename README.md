@@ -17,4 +17,4 @@ Big O is the upper bound of algorithm time complexity <b>(worst case)</b>. Big O
 * [Doubly Linked List](./data-structures/doubly-linked-list.md)
 * [Stack](./data-structures/stack.md)
 * [Queue](./data-structures/queue.md)
-* [Tree](#tree)
+* [Tree](./data-structures/tree.md)
