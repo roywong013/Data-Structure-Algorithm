@@ -9,8 +9,8 @@ Peek: `this.array[this.array.length-1]`
 <br><br><br>
 
 
-| Pop | Push | Peek |
-|-----|------|------|
-| O(1)| O(1) | O(1) |
+| Pop | Push | Peek | Lookup |
+|-----|------|------|--------|
+| O(1)| O(1) | O(1) | O(
 
 Peek: view the top most data
