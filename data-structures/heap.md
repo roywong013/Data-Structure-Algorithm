@@ -1,6 +1,6 @@
 # Heap 
 
-Heap is a specialized tree-based data structures. There are two types of heap: Min Heap and Max Heap.
+Heap is a specialized tree-based data structures. There are two types of heap: Min Heap and Max Heap. In Heap, left and right is not matter, that why lookup is O(n).
 
 <i>In <b>min heap</b>, the value of <b>parent node</b> is less than or equal to the value of <b>both child node</b>.</i><br>
 
