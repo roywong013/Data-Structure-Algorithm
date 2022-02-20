@@ -2,7 +2,7 @@
 
 > <b>Every time you are using a tree or converting something into a tree, consider recursion.</b>
 
-Recursion means that a function that call itself. 
+Recursion means that a function that call itself. When we using a tree or doing some sorting, we can consider using recursion for make it easily for coding.
 
 1. Identify the base case
 2. Identify the recursive case
