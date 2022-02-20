@@ -12,8 +12,8 @@ Recursion means that a function that call itself.
 
 
 
-|     Pros       |     Cons       |
-|----------------|----------------|
-|  DRY           | Larget Stack   |
-|  Readability   | Time Complexity|
-|                | Memory         |
+|     Pros       |     Cons          |
+|----------------|-------------------|
+|  DRY           | Larget Stack      |
+|  Readability   | Time Complexity   |
+|                | Space Complexity  |
