@@ -22,3 +22,8 @@ Big O is the upper bound of algorithm time complexity <b>(worst case)</b>. Big O
 * [Tree](./data-structures/tree/tree.md)
   * [Binary Tree](./data-structures/tree/binary-tree.md)
 * [Graph](./data-structures/graph.md)
+
+
+## Algorithm
+
+* [Recursion](./algorithm/recursion.md)
