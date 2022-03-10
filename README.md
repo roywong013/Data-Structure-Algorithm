@@ -9,6 +9,9 @@ Big O is the upper bound of algorithm time complexity <b>(worst case)</b>. Big O
 3. Different terms for inputs - e.g. O(m+n)
 4. Drop non Dominants - Only take the most significant, e.g. O(n^2+8n+2000)  =>  O(n^2)
 
+### Ω:
+Ω is the lower bound of algorithm time complexity <b>(best case)</b>.
+
 ## Data Structure
 
 * [Array](./data-structures/array.md)
