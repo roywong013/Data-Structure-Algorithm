@@ -31,4 +31,5 @@ Big O is the upper bound of algorithm time complexity <b>(worst case)</b>. Big O
 
 ## Sorting
 
-* 
+* [Bubble Sort](./sorting/bubble-sort.md)
+* [Selection Sort](./sorting/selectiong-sort.md)
