@@ -1,6 +1,6 @@
 # Insertion Sort
 
-When sorting small dataset / dataset that are nearly sorted, then using Insertion Sort will be very fast.
+When <b>sorting small dataset / dataset that are nearly sorted</b>, then using Insertion Sort will be very fast.
 
 ![](https://upload.wikimedia.org/wikipedia/commons/9/9c/Insertion-sort-example.gif)
 
