@@ -1,5 +1,7 @@
 # Merge Sort
 
+> <b>如果time > space , 會選擇Merge Sort</b>
+
 ![](https://upload.wikimedia.org/wikipedia/commons/c/cc/Merge-sort-example-300px.gif)
 
 Merge Sort步驟可分為<b>「拆分」</b> 及 <b>「合併」</b>。
