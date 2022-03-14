@@ -1,6 +1,6 @@
 # Bubble Sort
 
-基本上係唔會用得著Bubble Sort
+>基本上係唔會用得著Bubble Sort
 
 泡沫排序演算法的運作如下：
 
