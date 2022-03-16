@@ -38,3 +38,10 @@ Big O is the upper bound of algorithm time complexity <b>(worst case)</b>. Big O
 * [Selection Sort](./sorting/selection-sort.md)
 * [Insertion Sort](./sorting/insertion-sort.md)
 * [Merge Sort](./sorting/merge-sort.md)
+* [Quick Sort](./sorting/quick-sort.md)
+
+
+## Search
+
+* [Linear Search](./search/linear-search.md)
+* 
