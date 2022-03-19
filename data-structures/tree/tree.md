@@ -11,10 +11,10 @@ BFS is better if information show that target node is likely in  <b>upper level<
 
 ![image](https://user-images.githubusercontent.com/74874696/159127864-32a83a22-13eb-434f-a6ba-bce323701318.png)
 
-| Pro           | Con          |
-|---------------|--------------|
-|Shortest Path  | More Memory  |
-|Closer Nodes   |              |
+| Pro                            | Con          |
+|--------------------------------|--------------|
+|Good for finding Shortest Path  | More Memory  |
+|Closer Nodes                    |              |
 
 
 ### Depth-first Search
@@ -24,7 +24,7 @@ DFS is better if information show that target node is likely in <b>lower level</
 
 ![image](https://user-images.githubusercontent.com/74874696/159127937-7c25548e-7e99-4419-b32c-075bb8399551.png)
 
-| Pro              | Con          |
-|------------------|--------------|
-| Less memory      | Can get slow |
-| Does Path exist? |              |
+| Pro                                 | Con          |
+|-------------------------------------|--------------|
+| Less memory                         | Can get slow |
+| Good for finding "Does Path exist?" |              |
