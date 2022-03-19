@@ -27,6 +27,74 @@ Binary Search Tree is a sorted binary tree that can be searching data easily. Th
 <br><br><br>
 
 
+```
+class Node {
+  constructor(value){
+    this.left = null;
+    this.right = null;
+    this.value = value;
+  }
+}
+
+class BinarySearchTree {
+  constructor(){
+    this.root = null;
+  }
+  insert(value){
+    const newNode = new Node(value);
+    if (this.root === null){
+      this.root = newNode;
+    }
+    else {
+      let cur = this.root;
+      this.inserting(cur, value, newNode)
+      }
+    
+    //Code here
+    return this;
+  }
+  inserting(cur, value, newNode){
+      if (newNode.value > cur.value){
+        if (cur.right == null){
+          cur.right = newNode;
+        }
+        else {
+          cur = cur.right;
+          this.inserting(cur, value, newNode);
+        }
+      }
+      else if (newNode.value < cur.value){
+        if (cur.left == null){
+          cur.left = newNode;
+        }
+        else {
+          cur = cur.left;
+          this.inserting(cur, value, newNode);
+        }
+      }
+  }
+  
+
+  lookup(value){
+    //Code here
+    let cur = this.root;
+    while (cur) {
+      if (value === cur.value){
+        return cur;
+      }
+      else if (value > cur.value){
+        cur = cur.right;
+      }
+      else if (value < cur.value){
+        cur = cur.left
+      }
+    }
+    return null;
+  }
+}
+```
+
+
 | Lookup   | Insertion | Deletion  |
 |----------|-----------|-----------|
 |O(log N)* | O(log N)* | O(log N)* | 
