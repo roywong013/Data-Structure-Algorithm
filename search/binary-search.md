@@ -5,7 +5,7 @@
 （如果array為雙數，則可使用中間較細個個數）
 
 
-<b>可透過Tree 去實現Binary Search</b>
+<b>可透過[Tree](../data-structures/tree/binary-tree.md)去實現Binary Search</b>
 
 
 ![image](https://user-images.githubusercontent.com/74874696/159127035-a0e39a08-c83d-4f57-8870-2a25dd5fad63.png)
