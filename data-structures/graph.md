@@ -32,3 +32,12 @@ let graph = [
   [1, 1, 0, 0, 0]
 ]
 ```
+
+<br><br><br>
+
+### Dijkstra Algorithm & Bellman-Ford Algorithm
+
+如果需要找出shortest path, 而edges have weighted, 則可以考慮利用Dijkstra Algorithm / Bellman-Ford Algorithms
+
+* <b>Bellman-Ford Algorithm:</b> 如果有negative weight, 則使用Bellman-Ford Algorithm  (但較慢 O(n^2))
+* <b>Dijkstra Algorithm:</b> 如果無negative weight, 就可以使用Dijkstra Algorithm (較快)
