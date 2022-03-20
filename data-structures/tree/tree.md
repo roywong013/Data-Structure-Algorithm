@@ -24,6 +24,7 @@ DFS is better if information show that target node is likely in <b>lower level</
 
 ![image](https://user-images.githubusercontent.com/74874696/159127937-7c25548e-7e99-4419-b32c-075bb8399551.png) 
 <br>
+#### Three Type of DFS traversal
 ![image](https://user-images.githubusercontent.com/74874696/159149700-d54e4dd7-c1cd-4ea4-b9de-ddece63778ca.png)
 
 | Pro                                 | Con          |
