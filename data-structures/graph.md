@@ -35,7 +35,7 @@ let graph = [
 
 <br><br><br>
 
-### Dijkstra Algorithm & Bellman-Ford Algorithm
+## Dijkstra Algorithm & Bellman-Ford Algorithm
 
 如果需要找出shortest path, 而edges have weighted, 則可以考慮利用Dijkstra Algorithm / Bellman-Ford Algorithms
 
