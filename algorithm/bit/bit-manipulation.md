@@ -9,14 +9,14 @@ var num = 1 << 5;
 ```
 
 
-### Get Bit
+#### Get Bit
 
 Use `>>` to Shift the relevant bit to the zeroth position(最右). Then we use `&` (And operator) with 1 which bit pattern like `00000001`. If the relevant bit is `1`, then return `1`, and otherwise it is `0`.
 
 > See [getBit.js](./getBit.js) for coding details.
 
 
-### Set Bit
+#### Set Bit
 
 將指定bit position既bit set做`1`。 <br>
 Use `1 << bitPosition` to shift `1` to specific position, which will create a binary number like  `00100`. Then we use `|` (Or operator) that sets specific bit into 1 but it does not affect on other bits of the number.
