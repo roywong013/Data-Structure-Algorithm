@@ -31,6 +31,7 @@ Big O is the upper bound of algorithm time complexity <b>(worst case)</b>. Big O
 
 * [Recursion](./algorithm/recursion.md)
 * [Dynamic Programming](./algorithm/dynamic-programming.md)
+* [Bit Manipulation](./algorithm/bit-manipulation.md)
 
 
 ## Sorting
