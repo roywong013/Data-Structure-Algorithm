@@ -3,7 +3,8 @@
 ### Get 2^n
 
 ```
-var num = 1 << 5; // gets the 6th bit   (2^5)
+// gets the 6th bit   (2^5)
+var num = 1 << 5; 
 // expected output: 32
 ```
 
