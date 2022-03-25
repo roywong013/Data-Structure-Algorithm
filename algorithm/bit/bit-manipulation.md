@@ -22,3 +22,7 @@ Use `>>` to Shift the relevant bit to the zeroth position(最右). Then we use `
 Use `1 << bitPosition` to shift `1` to specific position, which will create a binary number like  `00100`. Then we use `|` (Or operator) that sets specific bit into 1 but it does not affect on other bits of the number.
 
 > See [setBit.js](./setBit.js) for coding details.
+
+
+#### Clear Bit
+將指定bit position既bit set做`0` <br>
