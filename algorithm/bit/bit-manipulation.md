@@ -1,6 +1,6 @@
 # Bit Manipulation
 
-### Get 2^n
+### Get Power of 2 without `^` 
 
 ```
 // gets the 6th bit   (2^5)
