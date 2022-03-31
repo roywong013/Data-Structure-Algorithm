@@ -31,7 +31,7 @@ Use `1 << bitPosition` to shift `1` to specific position, then we use `~` to inv
 
 > See [clearBit.js](./clearBit.js) for coding details.
 
-### isEven
+#### isEven
 
 For every odd number, the rightmost bit will always be 1. We can check the rightmost bit for determining if the number provided is even.
 
