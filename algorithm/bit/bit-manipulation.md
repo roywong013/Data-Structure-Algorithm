@@ -36,3 +36,9 @@ Use `1 << bitPosition` to shift `1` to specific position, then we use `~` to inv
 For every odd number, the rightmost bit will always be 1. We can check the rightmost bit for determining if the number provided is even.
 
 > See [isEven.js](./isEven.js) for coding details.
+
+#### isPositive
+
+This method is for determining if the number provided is positive. For every positive number, the leftmost bit is always `0` and negative number is `1`. However, if the number provided is zero or negative zero, it should still return `false`.
+
+> See [isPositive.js](./isPositive.js) for coding details.
