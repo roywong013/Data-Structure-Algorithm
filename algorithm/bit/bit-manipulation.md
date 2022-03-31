@@ -25,4 +25,7 @@ Use `1 << bitPosition` to shift `1` to specific position, which will create a bi
 
 
 #### Clear Bit
-將指定bit position既bit set做`0` <br>
+將指定bit position既bit set做`0`。 <br>
+Use `1 << bitPosition` to shift `1` to specific position, then we use `~` to invert the binary number to be like `11011`. Then we use `&` (And Operator) that clear the specific position bit to become `0` but it does not affect on other bits of the number.
+
+> See [clearBit.js](./clearBit.js) for coding details.
