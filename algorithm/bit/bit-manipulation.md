@@ -80,4 +80,27 @@ Number: 0b0010 = 2
 Powers of two: 0 + 0 + 2^1 + 0
 ```
 
-> See [divideByTwo.js](divideByTwo.js) for further details.
+> See [divideByTwo.js](divideByTwo.js) for coding details.
+
+#### Switch Sign
+
+This method make positive numbers to be negative and backwards.
+To do so it uses "Twos Complement" approach which does it by
+inverting all of the bits of the number and adding 1 to it.
+
+```
+1101 -3
+1110 -2
+1111 -1
+0000  0
+0001  1
+0010  2
+0011  3
+```
+
+> See [switchSign.js](switchSign.js) for coding details.
+
+
+## Reference
+
+* [JavaScript Algorithms](https://github.com/roywong013/javascript-algorithms/tree/master/src/algorithms/math/bits)
