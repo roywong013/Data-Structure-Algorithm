@@ -46,4 +46,4 @@ Big O is the upper bound of algorithm time complexity <b>(worst case)</b>. Big O
 ## Search
 
 * [Linear Search](./search/linear-search.md)
-* [Binary Search](./search/Binary-search.md)
+* [Binary Search](./search/binary-search.md)
