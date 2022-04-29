@@ -33,7 +33,7 @@ function binarySearch(arr, val) {
 ```
 
 
-Minimize k , s.t. condition(k) is True:
+### Minimize k , s.t. condition(k) is True:
 ```
   function binarySearch(arr, val) {
     let left = min(search_space);
